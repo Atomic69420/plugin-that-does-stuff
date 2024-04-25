@@ -15,7 +15,7 @@
     "files": {
         "place": [
             {
-                "src": "my-plugin/*",
+                "src": "plugin/*",
                 "dest": "plugins/my-plugin/"
             }
         ]
